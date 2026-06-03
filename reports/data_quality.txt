@@ -1,0 +1,5 @@
+Data Quality Summary
+1. Datasets are loaded completely
+2. Checked missing values
+3. Duplicated rows Checked
+4. Data Ingestion completed
